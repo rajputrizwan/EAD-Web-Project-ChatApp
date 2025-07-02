@@ -44,6 +44,26 @@ A modern, real-time chat application built with React, Node.js, Express, and Mon
 <!-- Add screenshots here if available -->
 <!-- ![Screenshot](screenshots/chatapp.png) -->
 
+```
+![image alt](https://github.com/rajputrizwan/EAD-Web-Project-ChatApp/blob/main/Dashboard.PNG?raw=true)
+```
+
+```
+![image alt](https://github.com/rajputrizwan/EAD-Web-Project-ChatApp/blob/main/SignUp.PNG?raw=true)
+```
+
+```
+![image alt](https://github.com/rajputrizwan/EAD-Web-Project-ChatApp/blob/main/Login.PNG?raw=true)
+```
+
+```
+![image alt](https://github.com/rajputrizwan/EAD-Web-Project-ChatApp/blob/main/Settings.PNG?raw=true)
+```
+
+```
+![image alt](https://github.com/rajputrizwan/EAD-Web-Project-ChatApp/blob/main/profile.PNG?raw=true)
+```
+
 ---
 
 ## Installation
