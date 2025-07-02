@@ -41,28 +41,11 @@ A modern, real-time chat application built with React, Node.js, Express, and Mon
 
 ## Screenshots
 
-<!-- Add screenshots here if available -->
-<!-- ![Screenshot](screenshots/chatapp.png) -->
-
-```
-![image alt](https://github.com/rajputrizwan/EAD-Web-Project-ChatApp/blob/main/Dashboard.PNG?raw=true)
-```
-
-```
-![image alt](https://github.com/rajputrizwan/EAD-Web-Project-ChatApp/blob/main/SignUp.PNG?raw=true)
-```
-
-```
-![image alt](https://github.com/rajputrizwan/EAD-Web-Project-ChatApp/blob/main/Login.PNG?raw=true)
-```
-
-```
-![image alt](https://github.com/rajputrizwan/EAD-Web-Project-ChatApp/blob/main/Settings.PNG?raw=true)
-```
-
-```
-![image alt](https://github.com/rajputrizwan/EAD-Web-Project-ChatApp/blob/main/profile.PNG?raw=true)
-```
+![Dashboard](https://github.com/rajputrizwan/EAD-Web-Project-ChatApp/blob/main/Dashboard.PNG?raw=true)
+![Sign Up](https://github.com/rajputrizwan/EAD-Web-Project-ChatApp/blob/main/SignUp.PNG?raw=true)
+![Login](https://github.com/rajputrizwan/EAD-Web-Project-ChatApp/blob/main/Login.PNG?raw=true)
+![Settings](https://github.com/rajputrizwan/EAD-Web-Project-ChatApp/blob/main/Settings.PNG?raw=true)
+![Profile](https://github.com/rajputrizwan/EAD-Web-Project-ChatApp/blob/main/profile.PNG?raw=true)
 
 ---
 
