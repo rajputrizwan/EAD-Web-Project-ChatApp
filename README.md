@@ -60,8 +60,8 @@ A modern, real-time chat application built with React, Node.js, Express, and Mon
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/your-username/EAD-Project-ChatApp.git
-   cd EAD-Project-ChatApp
+   git clone https://github.com/rajputrizwan/EAD-Web-Project-ChatApp.git
+   cd EAD-Web-Project-ChatApp
    ```
 
 2. **Install dependencies**
@@ -109,12 +109,6 @@ A modern, real-time chat application built with React, Node.js, Express, and Mon
 
 ---
 
-## API Documentation
-
-See [API.md](API.md) or the `/docs` folder for detailed API endpoints, request/response formats, and authentication details.
-
----
-
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements or bug fixes.
@@ -124,12 +118,6 @@ Contributions are welcome! Please open issues or submit pull requests for improv
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a pull request
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
